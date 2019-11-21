@@ -9,7 +9,18 @@ A fun little project build to learn React. The project is mainly implemented usi
 
 <br></br>
 
-### `npm start`
+## Install
 
-Runs the app in the development mode.<br />
+    $ git clone https://github.com/Asifm95/react-playground.git
+    $ cd PROJECT
+    $ npm install
+
+## Start & watch
+
+    $ npm start
+
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## Simple build for production
+
+    $ npm run build
