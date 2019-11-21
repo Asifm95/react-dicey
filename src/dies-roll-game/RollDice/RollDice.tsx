@@ -38,7 +38,6 @@ const RollDice = () => {
           (acc, curr, i) => ((acc[`die${i + 1}`] = genRandFace()), acc),
           {}
         );
-      console.log(newState);
       setDice(newState);
     }
   };

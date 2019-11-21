@@ -2,8 +2,8 @@ import React from 'react';
 import './App.css';
 import RollDice from './dies-roll-game/RollDice/RollDice';
 import { Layout, Menu } from 'antd';
-import ReactIcon from './assets/react-icon.png';
-const { Header, Content } = Layout;
+// import ReactIcon from './assets/react-icon.png';
+const { Header } = Layout;
 const App: React.FC = () => {
   return (
     <Layout>
