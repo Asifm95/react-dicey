@@ -1,4 +1,4 @@
-# React Playground
+# react-dicey 🎲
 
 A fun little project build to learn React. The project is mainly implemented using the _Hooks_ API and _antd_ design system.
 <br></br>
