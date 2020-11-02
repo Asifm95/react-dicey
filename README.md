@@ -11,7 +11,7 @@ A simple dice rolling component build with react. The project is mainly implemen
 
 ## Install
 
-    $ git clone https://github.com/Asifm95/react-playground.git
+    $ git clone https://github.com/Asifm95/react-dicey.git
     $ cd PROJECT
     $ npm install
 
